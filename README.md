@@ -1,6 +1,6 @@
 # Hi there, I'm Enrique Ribeiro de Oliveira! 👋
 
-🚀 **Technology Professional** | 💻 **Back-End Developer** | 🤖 **Automation & QA Enthusiast**  
+🚀 **Technology Professional** | 💻 **Full-Stack Developer** | 🤖 **Automation & QA Enthusiast**  
 📍 **Goiânia, Brazil**
 
 ### 🔗 Connect with Me  
@@ -23,6 +23,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white)  
+
+---
+
+## 📚 **Education**  
+🎓 **Bachelor’s in Systems Analysis & Development**  
+📌 *Universidade Paulista | Graduated Jun 2025*  
 
 ---
 
