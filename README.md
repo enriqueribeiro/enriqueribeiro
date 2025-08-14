@@ -1,6 +1,6 @@
 # Hi there, I'm Enrique Ribeiro de Oliveira! 👋
 
-🚀 **Technology Professional** | 💻 **Full-Stack Developer** | 🤖 **Automation & QA Enthusiast**  
+🚀 **Technology Professional** | 💻 **Back-End Developer** | 🤖 **Automation & QA Enthusiast**  
 📍 **Goiânia, Brazil**
 
 ### 🔗 Connect with Me  
