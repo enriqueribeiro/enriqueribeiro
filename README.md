@@ -1,7 +1,7 @@
 # Hi there, I'm Enrique Ribeiro de Oliveira! 👋
 
 🚀 **Technology Professional** | 💻 **Full-Stack Developer** | 🤖 **Automation & QA Enthusiast**  
-📍 **Goiânia, Brazil** | 📧 [Email](mailto:your.email@example.com)  
+📍 **Goiânia, Brazil**
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriqueeribeiro) 
