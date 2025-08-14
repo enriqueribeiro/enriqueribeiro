@@ -44,8 +44,3 @@
 - **English**: Proficient (C2)  
 
 ---
-
-### ⚡ **Fun Fact**  
-I love turning repetitive tasks into automated scripts—because why do manually what code can do better? 😄  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriqueribeiro&show_icons=true&theme=radical)  
