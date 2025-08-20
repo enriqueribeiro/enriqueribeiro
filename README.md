@@ -26,14 +26,16 @@
 
 ---
 
-## 📚 **Education**  
-🎓 **Bachelor’s in Systems Analysis & Development**  
-📌 *Universidade Paulista | Graduated Jun 2025*  
+## 📚 **About me**  
+Technology professional with experience in process automation, technical support, and software development. Currently focused on building my career as a developer, with interest in backend, automation, testing, and applied artificial intelligence.
+
+Skilled in Python, API development with Flask, API testing with Postman, test automation with Cypress and Playwright, version control with Git, and application packaging with Docker. Experience in projects involving Google Sheets integration, automated document generation, and efficiency-focused internal process solutions.
+
+Currently exploring machine learning concepts and modern development best practices, always aiming to learn and apply new technologies. Open to opportunities in software development where I can grow professionally and contribute with solutions that generate real value.
 
 ---
 
 ## 🌍 **Languages**  
 - **Portuguese**: Native  
 - **English**: Proficient (C2)  
-
 ---
