@@ -103,5 +103,4 @@ Suporte técnico, configuração de redes (roteadores, switches, firewalls) e mo
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriqueribeiro&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/enriqueribeiro)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueribeiro&layout=compact&theme=dark&hide_border=true&langs_count=8)](https://github.com/enriqueribeiro)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USERNAME&show_icons=true)
