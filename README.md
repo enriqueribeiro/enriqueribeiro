@@ -98,9 +98,3 @@ Suporte técnico, configuração de redes (roteadores, switches, firewalls) e mo
 
 - **Português:** Nativo
   - - **English:** Fluent (C2)
-
-- ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SEU_USERNAME&show_icons=true)
