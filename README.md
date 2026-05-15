@@ -48,60 +48,60 @@ Contribuo ativamente em sistema Java legado com **+745 commits em produção** (
 
 ### 🔷 AtivuZx — Plataforma de Gestão de Ativos
 Plataforma proprietária de gestão de ativos com arquitetura full-stack moderna.
-- **Backend:** Python · FastAPI · PostgreSQL · Alembic · Neon Postgres · Docker
-- - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Docker
+  - **Backend:** Python · FastAPI · PostgreSQL · Alembic · Neon Postgres · Docker
+  - - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Docker
   - - API RESTful com contrato OpenAPI, seeds e ambiente isolado por containers
-   
-    - ### 🟣 FilezPlatform — SaaS de Geração de Documentos
-    - Plataforma SaaS multi-tenant de gestão e automação de documentos com workers assíncronos.
-    - - **Stack:** FastAPI · Celery · Redis · PostgreSQL · Docker · S3/MinIO
-      - - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Prisma
-        - - Multi-tenancy com API keys, gestão de templates DOCX, webhooks, observabilidade (Prometheus) e deploy via Nginx
+
+- ### 🟣 FilezPlatform — SaaS de Geração de Documentos
+- Plataforma SaaS multi-tenant de gestão e automação de documentos com workers assíncronos.
+  - - **Stack:** FastAPI · Celery · Redis · PostgreSQL · Docker · S3/MinIO
+  - - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Prisma
+  - - Multi-tenancy com API keys, gestão de templates DOCX, webhooks, observabilidade (Prometheus) e deploy via Nginx
          
-          - ### 🟢 TermoApp — Gerador Automatizado de Termos de Entrega
-          - Aplicação interna premiada na Pacto Soluções. Eliminou processo 100% manual de geração de documentos.
-          - - **Stack:** Flask · PostgreSQL · Docker · Google Sheets API · ClickSign · LibreOffice
-            - - RBAC completo, assinatura digital, cadastro em lote de colaboradores, gestão de patrimônio e audit logs
-             
-              - ### 🔴 Tela de Apoio (ZW) — Sistema Java Legado em Produção
-              - Sistema corporativo Java em produção contínua desde 2021, com integração ao TermoApp.
-              - - **Stack:** Java · JSF · Maven · Docker · GitLab CI/CD
-                - - +745 commits · 243 tags · 10 branches · versão atual 3.0.244
+- ### 🟢 TermoApp — Gerador Automatizado de Termos de Entrega
+- Aplicação interna premiada na Pacto Soluções. Eliminou processo 100% manual de geração de documentos.
+  - - **Stack:** Flask · PostgreSQL · Docker · Google Sheets API · ClickSign · LibreOffice
+  - - RBAC completo, assinatura digital, cadastro em lote de colaboradores, gestão de patrimônio e audit logs
 
-                ### 🔵 Formulário de Cancelamento — Pacto Soluções
-                Fluxo de cancelamento em wizard com 5 etapas para qualificação de churn e retenção.
-                - **Stack:** Next.js 14 · TypeScript · Tailwind CSS · PostgreSQL · Upstash Redis
-                - - Fila resiliente com retry/backoff, integração com Google Sheets e rate limiting distribuído
-                 
-                  - ---
+- ### 🔴 Tela de Apoio (ZW) — Sistema Java Legado em Produção
+- Sistema corporativo Java em produção contínua desde 2021, com integração ao TermoApp.
+  - - **Stack:** Java · JSF · Maven · Docker · GitLab CI/CD
+  - - +745 commits · 243 tags · 10 branches
 
-                  ## 💼 Experiência
+### 🔵 Formulário de Cancelamento — Pacto Soluções
+Fluxo de cancelamento em wizard com 5 etapas para qualificação de churn e retenção.
+- **Stack:** Next.js 14 · TypeScript · Tailwind CSS · PostgreSQL · Upstash Redis
+  - - Fila resiliente com retry/backoff, integração com Google Sheets e rate limiting distribuído
 
-                  **Técnico de Tecnologia** · Pacto Soluções *(dez/2025 – presente)*
-                  Atuação na intersecção entre infraestrutura de TI e desenvolvimento de software interno. Administração de servidores, redes e suporte. Desenvolvimento de soluções que automatizaram processos críticos.
+- ---
 
-                  **Assistente de Tecnologia** · Pacto Soluções *(nov/2024 – dez/2025)*
-                  Suporte técnico e infraestrutura corporativa. Desenvolveu as primeiras soluções de automação interna em Python que evoluíram para projetos reconhecidos pela empresa.
+## 💼 Experiência
 
-                  **Estagiário de TI** · Sistema OCB/GO *(abr/2024 – nov/2024)*
-                  Suporte técnico, configuração de redes (roteadores, switches, firewalls) e monitoramento de segurança.
+**Técnico de Tecnologia** · Pacto Soluções *(dez/2025 – presente)*
+Atuação na intersecção entre infraestrutura de TI e desenvolvimento de software interno. Administração de servidores, redes e suporte. Desenvolvimento de soluções que automatizaram processos críticos.
 
-                  ---
+**Assistente de Tecnologia** · Pacto Soluções *(nov/2024 – dez/2025)*
+Suporte técnico e infraestrutura corporativa. Desenvolveu as primeiras soluções de automação interna em Python que evoluíram para projetos reconhecidos pela empresa.
 
-                  ## 🎓 Formação
+**Estagiário de TI** · Sistema OCB/GO *(abr/2024 – nov/2024)*
+Suporte técnico, configuração de redes (roteadores, switches, firewalls) e monitoramento de segurança.
 
-                  **Análise e Desenvolvimento de Sistemas** · Universidade Paulista (UNIP) · 2023–2024
+---
 
-                  ---
+## 🎓 Formação
 
-                  ## 🌍 Idiomas
+**Análise e Desenvolvimento de Sistemas** · Universidade Paulista (UNIP) · 2023–2024
 
-                  - **Português:** Nativo
-                  - - **English:** Fluent (C2)
-                   
-                    - ---
+---
 
-                    ## 📊 GitHub Stats
+## 🌍 Idiomas
 
-                    ![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriqueribeiro&show_icons=true&theme=dark&hide_border=true)
-                    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueribeiro&layout=compact&theme=dark&hide_border=true)
+- **Português:** Nativo
+  - - **English:** Fluent (C2)
+
+- ---
+
+## 📊 GitHub Stats
+
+![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enriqueribeiro&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueribeiro&layout=compact&theme=dark&hide_border=true)
