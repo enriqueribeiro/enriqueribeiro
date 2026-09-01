@@ -1,24 +1,21 @@
-# Enrique Ribeiro 👋
+# Oi, eu sou o Enrique 👋
 
-**FullStack Dev que transforma processos em produto**
-📍 Goiânia, Goiás, Brasil
+FullStack dev em Goiânia, curtindo transformar processo manual chato em produto que funciona sozinho.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enriqueeribeiro)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enriqueribeiro)
 
 ---
 
-## 🚀 Sobre mim
+## O que eu curto fazer
 
-Desenvolvedor FullStack com foco em automação de processos, construção de APIs e desenvolvimento de plataformas SaaS. Trabalho com Python, Java, Next.js, Docker e PostgreSQL — com atenção real a código limpo e soluções que geram resultado.
+Passo boa parte do tempo entre APIs em Python/Java, frontends em Next.js e containers Docker. Gosto de pegar um processo manual — planilha, formulário, aprovação por e-mail — e transformar em algo automatizado, com código limpo e sem gambiarra escondida.
 
-Na **Pacto Soluções**, desenvolvi uma aplicação que eliminou um processo 100% manual: geração automatizada de documentos via Google Sheets API + Flask + Docker, reduzindo o tempo de operação de minutos para segundos com 100% de padronização. **Projeto reconhecido com prêmio interno de inovação.**
-
-Contribuo ativamente em sistema Java legado com **+745 commits em produção** (GitLab). Fluent in English — open to international opportunities.
+Um dos projetos que mais me orgulho foi eliminar um processo 100% manual de geração de documentos na Pacto Soluções (Google Sheets API + Flask + Docker), que rendeu um prêmio interno de inovação.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack que uso no dia a dia
 
 **Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,69 +29,35 @@ Contribuo ativamente em sistema Java legado com **+745 commits em produção** (
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Infra & DevOps**
+**Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Testes & Qualidade**
+**Testes**
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
 ---
 
-## 📦 Projetos em Desenvolvimento
+## 📦 No que ando trabalhando
 
-### 🔷 AtivuZx — Plataforma de Gestão de Ativos
-Plataforma proprietária de gestão de ativos com arquitetura full-stack moderna.
-  - **Backend:** Python · FastAPI · PostgreSQL · Alembic · Neon Postgres · Docker
-  - - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Docker
-  - - API RESTful com contrato OpenAPI, seeds e ambiente isolado por containers
+**🔷 AtivuZx** — plataforma de gestão de ativos, full-stack do zero.
+`FastAPI · PostgreSQL · Next.js 14 · TypeScript · Docker`
 
-- ### 🟣 FilezPlatform — SaaS de Geração de Documentos
-- Plataforma SaaS multi-tenant de gestão e automação de documentos com workers assíncronos.
-  - - **Stack:** FastAPI · Celery · Redis · PostgreSQL · Docker · S3/MinIO
-  - - **Frontend:** Next.js 14 · TypeScript · Tailwind CSS · shadcn/ui · Prisma
-  - - Multi-tenancy com API keys, gestão de templates DOCX, webhooks, observabilidade (Prometheus) e deploy via Nginx
-         
-- ### 🟢 TermoApp — Gerador Automatizado de Termos de Entrega
-- Aplicação interna premiada na Pacto Soluções. Eliminou processo 100% manual de geração de documentos.
-  - - **Stack:** Flask · PostgreSQL · Docker · Google Sheets API · ClickSign · LibreOffice
-  - - RBAC completo, assinatura digital, cadastro em lote de colaboradores, gestão de patrimônio e audit logs
+**🟣 FilezPlatform** — SaaS multi-tenant de geração e automação de documentos, com workers assíncronos e webhooks.
+`FastAPI · Celery · Redis · Next.js 14 · S3/MinIO`
 
-- ### 🔴 Tela de Apoio (ZW) — Sistema Java Legado em Produção
-- Sistema corporativo Java em produção contínua desde 2021, com integração ao TermoApp.
-  - - **Stack:** Java · JSF · Maven · Docker · GitLab CI/CD
-  - - +745 commits · 243 tags · 10 branches
+**🟢 TermoApp** — gerador automatizado de termos de entrega. Tirou um processo 100% manual da planilha e colocou em produção — premiado internamente.
+`Flask · PostgreSQL · Google Sheets API · ClickSign`
 
-### 🔵 Formulário de Cancelamento — Pacto Soluções
-Fluxo de cancelamento em wizard com 5 etapas para qualificação de churn e retenção.
-- **Stack:** Next.js 14 · TypeScript · Tailwind CSS · PostgreSQL · Upstash Redis
-  - - Fila resiliente com retry/backoff, integração com Google Sheets e rate limiting distribuído
+**🔴 Tela de Apoio (ZW)** — sistema Java corporativo em produção contínua desde 2021, onde mexo bastante no dia a dia.
+`Java · JSF · Maven · GitLab CI/CD`
 
-- ---
-
-## 💼 Experiência
-
-**Técnico de Tecnologia** · Pacto Soluções *(dez/2025 – presente)*
-Atuação na intersecção entre infraestrutura de TI e desenvolvimento de software interno. Administração de servidores, redes e suporte. Desenvolvimento de soluções que automatizaram processos críticos.
-
-**Assistente de Tecnologia** · Pacto Soluções *(nov/2024 – dez/2025)*
-Suporte técnico e infraestrutura corporativa. Desenvolveu as primeiras soluções de automação interna em Python que evoluíram para projetos reconhecidos pela empresa.
-
-**Estagiário de TI** · Sistema OCB/GO *(abr/2024 – nov/2024)*
-Suporte técnico, configuração de redes (roteadores, switches, firewalls) e monitoramento de segurança.
+**🔵 Formulário de Cancelamento** — wizard de 5 etapas para qualificar churn e retenção, com fila resiliente e rate limiting distribuído.
+`Next.js 14 · TypeScript · PostgreSQL · Upstash Redis`
 
 ---
 
-## 🎓 Formação
-
-**Análise e Desenvolvimento de Sistemas** · Universidade Paulista (UNIP) · 2023–2024
-
----
-
-## 🌍 Idiomas
-
-- **Português:** Nativo
-  - - **English:** Fluent (C2)
+Falo português e inglês fluentemente, e estou aberto a oportunidades internacionais 🌍
